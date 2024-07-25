@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/saloon/static/css/main.b74cec27.css",
+    "main.js": "/saloon/static/js/main.8824f5ac.js",
+    "static/js/453.51f7b959.chunk.js": "/saloon/static/js/453.51f7b959.chunk.js",
+    "static/media/download (3).png": "/saloon/static/media/download (3).4fde14f610c729a6534a.png",
+    "static/media/download (5).png": "/saloon/static/media/download (5).e569140fe353702a63a4.png",
+    "static/media/team-1.gif": "/saloon/static/media/team-1.ff7be0fd47c52b0872ee.gif",
+    "static/media/banner.png": "/saloon/static/media/banner.35412b7fe7dac1c56491.png",
+    "static/media/PoetsenOne-Regular.ttf": "/saloon/static/media/PoetsenOne-Regular.22ae511e03fc2ed8d264.ttf",
+    "static/media/Poppins-Regular.ttf": "/saloon/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/dulhan02.jpeg": "/saloon/static/media/dulhan02.7dc7648213fd5b35b8c8.jpeg",
+    "static/media/dulhan05.jpeg": "/saloon/static/media/dulhan05.40073d345a2c7a6ffb9c.jpeg",
+    "static/media/nail02.jpeg": "/saloon/static/media/nail02.3ebb9cd512ba94a3c732.jpeg",
+    "static/media/dulhan01.jpeg": "/saloon/static/media/dulhan01.6c371391fdf586fad6b8.jpeg",
+    "static/media/nail01.jpeg": "/saloon/static/media/nail01.c6025bede58a90eb6ec8.jpeg",
+    "static/media/dulhan03.jpeg": "/saloon/static/media/dulhan03.7a9ae15fa844de648a4a.jpeg",
+    "static/media/ChakraPetch-Bold.ttf": "/saloon/static/media/ChakraPetch-Bold.ac19a2618ff468c4d7a2.ttf",
+    "static/media/Proxima-Nova-Font.otf": "/saloon/static/media/Proxima-Nova-Font.7bc9ce404c297c24f210.otf",
+    "static/media/hair02.jpeg": "/saloon/static/media/hair02.8e2aee93c9c4115ebb15.jpeg",
+    "static/media/hair01.jpeg": "/saloon/static/media/hair01.82af7e377d518a59d0ef.jpeg",
+    "static/media/hair03.jpeg": "/saloon/static/media/hair03.350da170c9642acd2200.jpeg",
+    "static/media/Our-Story-3-1.webp": "/saloon/static/media/Our-Story-3-1.d1f909e6cdd615a13512.webp",
+    "static/media/makup.jpeg": "/saloon/static/media/makup.40bf38c707c4004f98e9.jpeg",
+    "static/media/dulhan04.jpeg": "/saloon/static/media/dulhan04.cf27e8cd1131576cd2a6.jpeg",
+    "index.html": "/saloon/index.html",
+    "main.b74cec27.css.map": "/saloon/static/css/main.b74cec27.css.map",
+    "main.8824f5ac.js.map": "/saloon/static/js/main.8824f5ac.js.map",
+    "453.51f7b959.chunk.js.map": "/saloon/static/js/453.51f7b959.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74cec27.css",
+    "static/js/main.8824f5ac.js"
+  ]
+}
